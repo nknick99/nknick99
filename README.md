@@ -9,8 +9,7 @@ Building at the intersection of systems, cloud, and fullstack engineering.
 
 | Area | Repos | Stack |
 |------|-------|-------|
-| 🤖 **LLM / NLP Research** | [Multi-Issue-LLM-Negotiation](https://github.com/nknick99/Multi-Issue-LLM-Negotiation) |
-   Python · LLM Agents · NLP · Anthropic · Groq · Ollama |
+| 🤖 **LLM / NLP Research** | [Multi-Issue-LLM-Negotiation](https://github.com/nknick99/Multi-Issue-LLM-Negotiation) | Python · LLM Agents · NLP · Anthropic · Groq · Ollama |
 | 🔷 **Terraform / Cloud Infra** | [Terraform_templates_aws_examples](https://github.com/nknick99/Terraform_templates_aws_examples) · [Terraform_modules_templates](https://github.com/nknick99/Terraform_modules_templates) | HCL · AWS · IaC |
 | ⛓ **Blockchain** | [Blockchain_Project](https://github.com/nknick99/Blockchain_Project) · [Eth-Todolist](https://github.com/nknick99/Eth-Todolist) | Hyperledger Fabric · Ethereum · Solidity |
 | 🐳 **DevOps** | [DevOps---Demo](https://github.com/nknick99/DevOps---Demo) · [AWS-Retail-App](https://github.com/nknick99/AWS-Retail-App) | Docker · AWS · CI/CD |
