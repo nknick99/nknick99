@@ -20,7 +20,7 @@ Building at the intersection of systems, cloud, and fullstack engineering.
 
 ## Currently
 
-- 🏥 Software Engineer @ USC HTI Lab — clinical portal for a Verizon/J&J MedTech initiative (Next.js, Azure)
+- 🏥 Software Engineer @ USC HTI Lab — clinical portal for a J&J MedTech initiative (Next.js, Azure)
 - 🎓 Coursework: Algorithms, Database Systems, Applied NLP, ML for Data Science
 ---
 
