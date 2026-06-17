@@ -1,6 +1,6 @@
 # Hey, I'm Nikhil 👋
 
-MS Computer Science @ USC · Previously Cloud Infrastructure Analyst @ Deloitte (2.5 years)  
+MS Computer Science @ USC · Previously Security Engineer - Cloud Infrastructure @ Deloitte (2.5 years)  
 Building at the intersection of systems, cloud, and fullstack engineering.
 
 ---
