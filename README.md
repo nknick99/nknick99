@@ -9,7 +9,7 @@ Building at the intersection of systems, cloud, and fullstack engineering.
 
 | Area | Repos | Stack |
 |------|-------|-------|
-| 🛡️ **AI Agent Security / Policy Gateway** | [KiroGate](https://github.com/nknick99/KiroGate) — Runtime enforcement layer for AI agents with deterministic tool-call checks, egress control, scoped credentials, response filtering, and audit logs | Python · FastAPI · Next.js · PostgreSQL · Docker · Kubernetes · AWS STS · Pytest |
+| 🛡️ **AI Agent Security / Policy Gateway** | [Agent Policy Gateway](https://github.com/nknick99/KiroGate) — Runtime enforcement layer for AI agents with deterministic tool-call checks, egress control, scoped credentials, response filtering, and audit logs | Python · FastAPI · Next.js · PostgreSQL · Docker · Kubernetes · AWS STS · Pytest |
 | 🗺️ **Dietary Maps AI - Hackathon** | [Dietary Maps AI](https://github.com/nknick99/diet-aware-dining) — Winner of **Best Use of Miro x Kiro** at the Miro x Kiro LA Hackathon; verifies dietary claims and ranks restaurants with confidence scores | Next.js · TypeScript · AI Agents · Google Maps · Miro · Kiro |
 | 🤖 **RAG - CourseMate** | [A private, source-grounded study assistant](https://github.com/nknick99/RAG-CourseMate) | LangChain  · FastAPI  · Streamlit  · Pinecone / Chroma · Ollama / Groq / Gemini / OpenAI |
 | 🤖 **LLM / NLP Research** | [Multi-Issue-LLM-Negotiation](https://github.com/nknick99/Multi-Issue-LLM-Negotiation) | Python · LLM Agents · NLP · Anthropic · Groq · Ollama |
